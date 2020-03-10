@@ -6,4 +6,6 @@ The program solves the purpose of text recognition from images. It is written in
 
 
 Moreover, the windows form provides a better interface for the users anytime.
+
+
 PS: Visual Studio helped me to ease the job a lot.
